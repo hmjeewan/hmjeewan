@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jeewan Nandasena</h1>
-<h3 align="center">Web developer</h3>
+<h3 align="center">Web developer | Mobile App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmjeewan&label=Profile%20views&color=0e75b6&style=plastic" alt="hmjeewan" /> </p>
 
 - 🔭 I’m currently studying at [Master of Information Technology @ Sabaragamuwa University of Sri Lanka.](https://www.sab.ac.lk//)
 
-- 🌱 I’m currently learning **IOT and ReactJs**
+- 🌱 I’m currently learning **IOT, NodeJs, Flutter and ReactJs**
 
-- 🤝 I’m looking for help with **JAVA, IOT and Web Projects.**
+- 🤝 I’m looking for help with **JAVA, Mobile App Development IOT and Web Projects.**
 
 - 💬 Ask me about **Web and Java SE**
 
